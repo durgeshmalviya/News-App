@@ -1,0 +1,36 @@
+.news-app1 {
+    width: min-content;
+    display: block;
+    margin:  0  180px;
+    padding: 10px;
+}
+.news-app1 h6{
+    float: right;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400;
+    color: rgb(133, 211, 147);
+}
+
+.news-item1 {
+    box-shadow:  2px 1px 2px 2px#f7ecec;
+    border-radius: 30px;
+   background-color: white;
+    width: 850px;   
+    padding: 20px;
+    border: 2px solid rgb(223, 219, 219);
+    margin-bottom: 10px;
+  
+}
+
+.news-item1 a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color:rgb(234, 141, 141);
+    text-decoration: none;
+}
+.news-img1 {
+    border-radius: 30px;
+    width: 770px;
+    height: 350px;
+    
+}

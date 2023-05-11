@@ -1,0 +1,23 @@
+
+
+.video-responsive {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;    
+  }
+  
+  .video-responsive iframe {
+   display: flex;
+    left: 0px;
+    top: 0px;
+    height: 555px;
+    width: 990px;    
+ margin-left: 80px;
+ border: 15px solid rgb(30, 25, 25);
+ border-radius: 60px;
+ margin-top: 80px;
+ position:fixed;
+
+
+  }

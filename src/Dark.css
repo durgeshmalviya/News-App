@@ -1,0 +1,14 @@
+.card{
+   display: flex;
+    width: 20rem;
+    
+}
+.card-img-top{
+    width: 290px;
+   
+    height: 160px;
+    margin-bottom: -20px;
+}
+.lol{
+    display: flex;
+}
